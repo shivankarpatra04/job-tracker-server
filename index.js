@@ -27,7 +27,7 @@ app.use((req, res, next) => {
 
 // Middleware
 app.use(cors({
-    origin: ['https://your-frontend-url.vercel.app', 'http://localhost:3000'],
+    origin: ['https://job-tracker-hazel.vercel.app', 'http://localhost:3000'],
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true
