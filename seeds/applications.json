@@ -1,0 +1,38 @@
+[
+    {
+        "company": "Tech Corp",
+        "position": "Senior Developer",
+        "location": "New York, NY",
+        "status": "Interview",
+        "jobType": "Full-time",
+        "salary": {
+            "min": 120000,
+            "max": 150000,
+            "currency": "USD"
+        },
+        "applicationDate": "2024-03-15",
+        "source": "LinkedIn",
+        "remote": true,
+        "notes": "Initial discussion went well. Technical round scheduled.",
+        "nextStep": "Technical Interview on March 20",
+        "priority": "High"
+    },
+    {
+        "company": "Startup Inc",
+        "position": "Full Stack Engineer",
+        "location": "Remote",
+        "status": "Applied",
+        "jobType": "Full-time",
+        "salary": {
+            "min": 100000,
+            "max": 130000,
+            "currency": "USD"
+        },
+        "applicationDate": "2024-03-14",
+        "source": "Company Website",
+        "remote": true,
+        "notes": "Applied through referral from Tom",
+        "nextStep": "Waiting for HR response",
+        "priority": "Medium"
+    }
+]

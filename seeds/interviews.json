@@ -1,0 +1,50 @@
+[
+    {
+        "type": "Technical",
+        "date": "2024-03-20",
+        "time": "14:00",
+        "duration": 60,
+        "status": "Scheduled",
+        "interviewer": {
+            "name": "David Wilson",
+            "role": "Senior Engineer",
+            "email": "david.wilson@techcorp.com"
+        },
+        "location": "Remote",
+        "isRemote": true,
+        "meetingLink": "https://zoom.us/j/123456789",
+        "platform": "Zoom",
+        "notes": {
+            "preparation": "Review system design concepts and coding examples",
+            "questions": [
+                "Describe a challenging project",
+                "Experience with scalable systems",
+                "Team collaboration examples"
+            ]
+        }
+    },
+    {
+        "type": "HR",
+        "date": "2024-03-21",
+        "time": "11:00",
+        "duration": 45,
+        "status": "Scheduled",
+        "interviewer": {
+            "name": "Sarah Brown",
+            "role": "HR Manager",
+            "email": "sarah.brown@innovationlabs.com"
+        },
+        "location": "Remote",
+        "isRemote": true,
+        "meetingLink": "https://meet.google.com/abc-defg-hij",
+        "platform": "Google Meet",
+        "notes": {
+            "preparation": "Research company culture and recent projects",
+            "questions": [
+                "Why are you interested in our company?",
+                "Where do you see yourself in 5 years?",
+                "Expected salary range"
+            ]
+        }
+    }
+]

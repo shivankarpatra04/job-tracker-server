@@ -1,0 +1,17 @@
+{
+    "watch": [
+        "src",
+        "config",
+        "middleware",
+        "index.js"
+    ],
+    "ext": ".js,.json,.env",
+    "ignore": [
+        "node_modules",
+        "client"
+    ],
+    "env": {
+        "NODE_ENV": "development"
+    },
+    "exec": "node ./index.js"
+}
